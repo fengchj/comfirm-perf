@@ -6,8 +6,10 @@ confirm benchmark test with rabbitmq.
 ###1.  set config.
 
 > $ cd comfirm-perf
-$ vim src/main/java/MQConfig.java
-$ mvn clean compile
+>
+> $ vim src/main/java/MQConfig.java
+>
+> $ mvn clean compile
 
 ###2. start consumer
 
